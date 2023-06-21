@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InClassAssessment05</string>
+    <string name="Title">Fibonacci Calculator</string>
+    <string name="selectTerm">Select # of term</string>
+    <string name="numOfTerm">Up to 0 terms(s)</string>
+    <string name="gen">GENERATE</string>
+</resources>
